@@ -10,3 +10,4 @@
 |  Day 4  | March 9, 2024 |   CSS   | Made previously made web-pages to revise css topics and learned about float in css |  |
 |  Day 5  | March 10, 2024 |   CSS   | Learned about pseudo-elements and types of layout(work on float) | [CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST12MT030524) |
 |  Day 6  | March 11, 2024 |   CSS   | Flexbox and its properties | [CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST12MT030524) |
+|  Day 7  | March 12, 2024 |   CSS   | Grid and its properties | [CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST12MT030524) |
