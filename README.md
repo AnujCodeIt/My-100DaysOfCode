@@ -18,3 +18,4 @@
 |  Day 12  | March 17, 2024 |   CSS    | Revised The course and started working on the final project | [course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST12MT030524)  |
 |  Day 13  | March 18, 2024 |   CSS    | Responsive web design and made some layout's | [Video](https://www.youtube.com/watch?v=K24lUqcT0Ms)  |
 
+|  Day 14  | March 19, 2024 |   CSS    | Learned different units in CSS and Practicing responsive design. | [Video](https://www.youtube.com/watch?v=K24lUqcT0Ms)  |
