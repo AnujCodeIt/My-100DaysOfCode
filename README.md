@@ -32,3 +32,4 @@
 | Day 26  | April 4, 2024 |   CSS    |                         Practice CSS Grid and Flexbox by making card, testimonial, and hero sections.                          |                             [FrontendMentor](https://www.frontendmentor.io/) |
 | Day 27  | April 5, 2024 |   CSS    |                         Practice CSS by making hero section, cards, and layouts                          |                             [FrontendMentor](https://www.frontendmentor.io/) |
 | Day 28  | April 6, 2024 |   CSS    |                         Made some layout and designs; That's enough CSS for me, Time to start learning JavaScript                          |                             [FrontendMentor](https://www.frontendmentor.io/) |
+| Day 28  | April 8, 2024 |   CSS    |                         Learned fundamentals like variables, datatype, operators, Strings and conditional statements.                          |                              |
