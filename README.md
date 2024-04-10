@@ -34,3 +34,4 @@
 | Day 28  | April 6, 2024 |   CSS    |                         Made some layout and designs; That's enough CSS for me, Time to start learning JavaScript                          |                             [FrontendMentor](https://www.frontendmentor.io/) |
 | Day 29  | April 8, 2024 |   CSS    |                         Learned fundamentals like variables, datatype, operators, Strings and conditional statements.                          |                              |
 | Day 30  | April 9, 2024 |   CSS    |                        Ternary operators, Switch Case, functions (really impressed with arrow functions👌🏻), Array, Objects and their methods,  loops.                          |                              |
+| Day 31  | April 10, 2024 |   CSS    |                        Practiced JavaScript fundamentals which includes (conditional statements, loops, functions and objects)                          |                              |
