@@ -40,7 +40,7 @@
 | Day 34  | April 14, 2024 |   JavaScript    |              Learn how to deal with ids with Js; learn about init(); Practice Js my making dice game ;Practice CSS by making an introduction section layout | [Javascript](https://javascript.info/) [CSS](https://www.frontendmentor.io/) | 
 | Day 35  | April 15, 2024 |   JavaScript    |               Destructing objecs and spred operator, Maps and set, Scope and scope chain, String important methods | [Javascript](https://javascript.info/)  | 
 | Day 36  | April 19, 2024 |   JavaScript    |               first class and higer order functions, Callback function, call and apply method; bind method, closure| [Javascript](https://javascript.info/)  |
-| Day 37-38  | April 21, 2024 |   JavaScript    |               Revised JavaScript by practice the fundamentals and solving problems from codeawars. Also practiced some CSS transitions.| [Javascript](https://javascript.info/)  |
+| Day 37-38  | April 21, 2024 |   JavaScript    |               Revised JavaScript by practice the fundamentals and solving problems from codeawars. Also practiced some CSS transitions.| [Javascript](https://javascript.info/) [CSS](https://www.frontendmentor.io/) |
 | Day 39  | April 22, 2024 |   JavaScript    | Arrays and its methods, forEach with array, set, different ways to create Arrays, Set methods, and Flat              | [Javascript](https://javascript.info/)  |
 | Day 40  | April 23, 2024 |   JavaScript CSS   | Practiced CSS box shadows and responsiveness; Practiced Arrys and Object methods; Practiced Loops              | [Javascript](https://javascript.info/)  |
 | Day 41 | April 24, 2024 |   JavaScript  | Practiced Arrays methods, Made some interactive components using Js           | [Javascript](https://javascript.info/)  |
