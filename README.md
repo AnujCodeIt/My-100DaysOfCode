@@ -44,3 +44,4 @@
 | Day 39  | April 22, 2024 |   JavaScript    | Arrays and its methods, forEach with array, set, different ways to create Arrays, Set methods, and Flat              | [Javascript](https://javascript.info/)  |
 | Day 40  | April 23, 2024 |   JavaScript CSS   | Practiced CSS box shadows and responsiveness; Practiced Arrys and Object methods; Practiced Loops              | [Javascript](https://javascript.info/)  |
 | Day 41 | April 24, 2024 |   JavaScript  | Practiced Arrays methods, Made some interactive components using Js           | [Javascript](https://javascript.info/)  |
+| Day 42 | April 26, 2024 |   JavaScript  | Practiced Functions in Js; Also learned and practiced adanced concepts like closures, callback           | [Javascript](https://javascript.info/)  |
